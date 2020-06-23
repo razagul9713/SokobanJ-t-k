@@ -1,0 +1,3 @@
+Én egy Sokoban játékot választottam, amiben a pályát a karaktert és a dobozokat is én magam készítettem el.
+Igyekeztem a feladatnak megfelelően készíteni a játékot.
+Unity és VisualStudio keretrendszert használtam az elkészítés során.
